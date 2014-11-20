@@ -5,3 +5,5 @@
 *.pyc
 *.pyo
 *.swp
+wordpress/wp-config.php
+wordpress/wp-content/uploads/*
